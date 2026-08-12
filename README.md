@@ -21,8 +21,6 @@ The experiments were implemented with the following software environment:
 | scikit-learn | 1.8.0 |
 | Pandas | 3.0.3 |
 
-GPU execution is supported by the notebooks when CUDA is available. The reported experiments used an NVIDIA GeForce RTX 3050 Ti Laptop GPU with 4 GB VRAM and 16 GB RAM.
-
 Install the required packages with:
 
 ```bash
